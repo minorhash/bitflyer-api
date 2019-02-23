@@ -1,6 +1,6 @@
 var req= require('request');
 var crypto = require('crypto');
-var cnf=require("../key.json")
+var cnf=require("./son/key.json")
 
 var key =cnf.key
 var sec =cnf.sec

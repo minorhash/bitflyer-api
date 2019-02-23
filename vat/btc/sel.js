@@ -1,6 +1,6 @@
 var que = require('request');
 var crypto = require('crypto');
-var cnf= require('./cnf.json');
+var cnf= require('./son/key.json');
 
 var timestamp = Date.now().toString();
 var method = 'POST';
