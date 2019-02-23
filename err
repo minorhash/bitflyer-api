@@ -1,3 +1,0 @@
-no crontab for koji - using an empty one
-/bin/sh: 1: mp: not found
-crontab: "mp" exited with status 127
